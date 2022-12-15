@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13e43a8e9feca10488dab8b141fec1ce, type: 3}
+  m_Name: Watermelon
+  m_EditorClassIdentifier: 
+  Crop: {fileID: 8843756856314640420, guid: 1051851b72373aa479166565d44a6367, type: 3}
+  PlantDuration: 2
+  saplingIndex: 1

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1441ff1fcedab314db1d71fd048dfc1c, type: 3}
+  m_Name: Watermelon
+  m_EditorClassIdentifier: 
+  Output: {fileID: 6377384133446208264, guid: 87383ed0c1050194ca1060fb23eb0ec3, type: 3}
+  growStageSprite:
+  - {fileID: 21300000, guid: 162698dbcdab34c4f9d86b15af88acb1, type: 3}
+  - {fileID: 21300000, guid: b3b26b7f70501c94b8fd35937b20ccfb, type: 3}
+  - {fileID: 21300000, guid: 9804e3edcf3bd544aa69cf4c77fe25a0, type: 3}
+  - {fileID: 21300000, guid: e1f05ffadf33da84aaac2f7bc6815575, type: 3}
+  growStageUpTime:
+  - 4
+  - 7
+  - 12

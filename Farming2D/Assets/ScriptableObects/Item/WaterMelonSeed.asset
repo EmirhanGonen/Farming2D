@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01cbf9aeb79d7d045aa94da1844fdfcb, type: 3}
+  m_Name: WaterMelonSeed
+  m_EditorClassIdentifier: 
+  ItemName: Watermelon Seed
+  ItemDescription: Give Watermelon
+  ItemImage: {fileID: 21300000, guid: 5e2ee5487cf13b44d9bc31b24d95219e, type: 3}
+  growUpTime: 12
+  plantDuration: 2
+  product: {fileID: 6546429812885674312, guid: f849a4258642acf40a26ffc1b287d425, type: 3}
+  cost: 30
